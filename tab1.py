@@ -210,4 +210,3 @@ for record in loop_data[30:]:
             print(f"retrying 209 {count}")
         # print(record)
         print(response.text)
-        
